@@ -4,4 +4,5 @@
 
 **About**
 
-Sometimes we wondered how the Netflix, Youtube, Amazon Prime or simply any Web browser gives us recommendation. Where it all come from? Even when we gives rating to any products on the internet it is used by recommendation system to generate recommendation.
+Sometimes we wondered how the Netflix, Youtube, Amazon Prime or simply any Web browser gives us recommendation. Where it all comes from? Even when we gives rating to any products on the internet or share any data, it is used by recommender systems to generate recommendation.
+
